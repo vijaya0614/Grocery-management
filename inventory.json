@@ -1,0 +1,16 @@
+[
+    {
+        "name": "egg",
+        "quantity": "12",
+        "category": "general",
+        "amount": "72",
+        "expiry_date": "2025-12-12"
+    },
+    {
+        "name": "bread",
+        "quantity": "1 packet",
+        "category": "dairy",
+        "amount": "45",
+        "expiry_date": "2025-05-24"
+    }
+]

@@ -1,0 +1,305 @@
+{
+  "Apple": {
+    "calories": 95,
+    "protein": 0.5,
+    "carbs": 25,
+    "fats": 0.3
+  },
+  "Rice": {
+    "calories": 130,
+    "protein": 2.7,
+    "carbs": 28,
+    "fats": 0.3
+  },
+  "Milk": {
+    "calories": 122,
+    "protein": 8,
+    "carbs": 12,
+    "fats": 4.8
+  },
+  "Banana": {
+    "calories": 105,
+    "protein": 1.3,
+    "carbs": 27,
+    "fats": 0.3
+  },
+
+  "Chicken Breast": {
+    "calories": 165,
+    "protein": 31,
+    "carbs": 0,
+    "fats": 3.6
+  },
+  "Almonds": {
+    "calories": 164,
+    "protein": 6,
+    "carbs": 6,
+    "fats": 14
+  },
+  
+  "Bread": {
+    "calories": 79,
+    "protein": 2.6,
+    "carbs": 15,
+    "fats": 1
+  },
+  "Orange": {
+    "calories": 62,
+    "protein": 1.2,
+    "carbs": 15.4,
+    "fats": 0.2
+  },
+  "Curd": {
+    "calories": 98,
+    "protein": 5,
+    "carbs": 3.4,
+    "fats": 4.3
+  },
+  "Chapati": {
+    "calories": 104,
+    "protein": 3,
+    "carbs": 18,
+    "fats": 3
+  },
+  "Paneer": {
+    "calories": 265,
+    "protein": 18,
+    "carbs": 1.2,
+    "fats": 20.8
+  },
+  "Dal": {
+    "calories": 116,
+    "protein": 9,
+    "carbs": 20,
+    "fats": 0.4
+  },
+  "Potato": {
+    "calories": 161,
+    "protein": 4.3,
+    "carbs": 37,
+    "fats": 0.2
+  },
+  
+  "Broccoli": {
+    "calories": 55,
+    "protein": 3.7,
+    "carbs": 11.2,
+    "fats": 0.6
+  },
+  
+  "Spinach": {
+    "calories": 23,
+    "protein": 2.9,
+    "carbs": 3.6,
+    "fats": 0.4
+  },
+  "Salmon": {
+    "calories": 206,
+    "protein": 22,
+    "carbs": 0,
+    "fats": 12
+  },
+  "Avocado": {
+    "calories": 160,
+    "protein": 2,
+    "carbs": 8.5,
+    "fats": 14.7
+  },
+  "Carrot": {
+    "calories": 41,
+    "protein": 0.9,
+    "carbs": 9.6,
+    "fats": 0.2
+  },
+  "Sweet Potato": {
+    "calories": 112,
+    "protein": 2,
+    "carbs": 26,
+    "fats": 0.1
+  },
+  "Greek Yogurt": {
+    "calories": 59,
+    "protein": 10,
+    "carbs": 3.6,
+    "fats": 0.4
+  },
+  "Oats": {
+    "calories": 389,
+    "protein": 16.9,
+    "carbs": 66.3,
+    "fats": 6.9
+  },
+  "Tomato": {
+    "calories": 22,
+    "protein": 1.1,
+    "carbs": 4.8,
+    "fats": 0.2
+  },
+  "Lentils": {
+    "calories": 230,
+    "protein": 18,
+    "carbs": 40,
+    "fats": 0.8
+  },
+  "Cucumber": {
+    "calories": 16,
+    "protein": 0.7,
+    "carbs": 3.6,
+    "fats": 0.1
+  },
+  "Cabbage": {
+    "calories": 25,
+    "protein": 1.3,
+    "carbs": 5.8,
+    "fats": 0.1
+  },
+  "Quinoa": {
+    "calories": 120,
+    "protein": 4.1,
+    "carbs": 21.3,
+    "fats": 1.9
+  },
+  "Chia Seeds": {
+    "calories": 486,
+    "protein": 16.5,
+    "carbs": 42.1,
+    "fats": 30.7
+  },
+  "Peanut Butter": {
+    "calories": 588,
+    "protein": 25,
+    "carbs": 20,
+    "fats": 50
+  },
+  "Mango": {
+    "calories": 60,
+    "protein": 0.8,
+    "carbs": 15,
+    "fats": 0.4
+  },
+  "Apple Cider Vinegar": {
+    "calories": 3,
+    "protein": 0,
+    "carbs": 1,
+    "fats": 0
+  },
+  "Zucchini": {
+    "calories": 17,
+    "protein": 1.2,
+    "carbs": 3.1,
+    "fats": 0.3
+  },
+  "Pear": {
+    "calories": 102,
+    "protein": 0.6,
+    "carbs": 27,
+    "fats": 0.2
+  },
+  "Chickpeas": {
+    "calories": 164,
+    "protein": 8.9,
+    "carbs": 27.4,
+    "fats": 2.6
+  },
+  "Coconut Oil": {
+    "calories": 117,
+    "protein": 0,
+    "carbs": 0,
+    "fats": 13.6
+  },
+  
+  "Chicken (100g)": {
+    "calories": 239,
+    "protein": 27.0,
+    "carbs": 0.0,
+    "fats": 14.0
+  },
+  "Egg (1 large)": {
+    "calories": 70,
+    "protein": 6.0,
+    "carbs": 0.6,
+    "fats": 5.0
+  },
+  "Fish (100g)": {
+    "calories": 206,
+    "protein": 22.0,
+    "carbs": 0.0,
+    "fats": 12.0
+  },
+  "Mutton (100g)": {
+    "calories": 294,
+    "protein": 25.0,
+    "carbs": 0.0,
+    "fats": 21.0
+  },
+  "Prawn (100g)": {
+    "calories": 99,
+    "protein": 24.0,
+    "carbs": 0.2,
+    "fats": 0.3
+  },
+
+  "Beetroot": { "calories": 43, "protein": 1.6, "carbs": 9.6, "fats": 0.2 },
+  "Brinjal": { "calories": 25, "protein": 1, "carbs": 6, "fats": 0.2 },
+  "Green Peas": { "calories": 81, "protein": 5, "carbs": 14, "fats": 0.4 },
+  "Cauliflower": { "calories": 25, "protein": 1.9, "carbs": 5, "fats": 0.3 },
+  "Bitter Gourd": { "calories": 17, "protein": 1, "carbs": 3.7, "fats": 0.2 },
+  "Bottle Gourd": { "calories": 14, "protein": 0.6, "carbs": 3.4, "fats": 0.1 },
+  "Pumpkin": { "calories": 26, "protein": 1, "carbs": 6.5, "fats": 0.1 },
+  "Radish": { "calories": 16, "protein": 0.7, "carbs": 3.4, "fats": 0.1 },
+  "Green Beans": { "calories": 31, "protein": 1.8, "carbs": 7, "fats": 0.2 },
+  "Lady Finger": { "calories": 33, "protein": 2, "carbs": 7.5, "fats": 0.2 },
+
+  "Papaya": { "calories": 43, "protein": 0.5, "carbs": 11, "fats": 0.3 },
+  "Pineapple": { "calories": 50, "protein": 0.5, "carbs": 13, "fats": 0.1 },
+  "Guava": { "calories": 68, "protein": 2.6, "carbs": 14, "fats": 1 },
+  "Watermelon": { "calories": 30, "protein": 0.6, "carbs": 7.6, "fats": 0.2 },
+  "Pomegranate": { "calories": 83, "protein": 1.7, "carbs": 19, "fats": 1.2 },
+  "Grapes": { "calories": 69, "protein": 0.7, "carbs": 18, "fats": 0.2 },
+  "Strawberries": { "calories": 32, "protein": 0.7, "carbs": 7.7, "fats": 0.3 },
+  "Blueberries": { "calories": 57, "protein": 0.7, "carbs": 14, "fats": 0.3 },
+  "Kiwi": { "calories": 41, "protein": 0.8, "carbs": 10, "fats": 0.4 },
+  "Jackfruit": { "calories": 95, "protein": 1.7, "carbs": 23.5, "fats": 0.6 },
+
+  "Tofu": { "calories": 76, "protein": 8, "carbs": 1.9, "fats": 4.8 },
+  "Cheese": { "calories": 402, "protein": 25, "carbs": 1.3, "fats": 33 },
+  "Butter": { "calories": 717, "protein": 0.9, "carbs": 0.1, "fats": 81 },
+  "Ghee": { "calories": 900, "protein": 0, "carbs": 0, "fats": 100 },
+  "Yogurt": { "calories": 59, "protein": 10, "carbs": 3.6, "fats": 0.4 },
+  "Buttermilk": { "calories": 40, "protein": 3.3, "carbs": 4.8, "fats": 1 },
+  "Cream": { "calories": 345, "protein": 2, "carbs": 3, "fats": 37 },
+  "Ice Cream": { "calories": 207, "protein": 4, "carbs": 24, "fats": 11 },
+  "Whey Protein": { "calories": 120, "protein": 24, "carbs": 3, "fats": 1.5 },
+  "Soy Milk": { "calories": 100, "protein": 7, "carbs": 4, "fats": 4 },
+
+  "Brown Rice": { "calories": 123, "protein": 2.6, "carbs": 25.6, "fats": 1 },
+  "Barley": { "calories": 354, "protein": 12.5, "carbs": 73.5, "fats": 2.3 },
+  "Corn": { "calories": 86, "protein": 3.2, "carbs": 19, "fats": 1.2 },
+  "Ragi (Finger Millet)": { "calories": 336, "protein": 7.3, "carbs": 72, "fats": 1.3 },
+  "Bajra (Pearl Millet)": { "calories": 361, "protein": 11.6, "carbs": 67.5, "fats": 5 },
+  "Jowar (Sorghum)": { "calories": 329, "protein": 10.4, "carbs": 72.6, "fats": 3.1 },
+  "Wheat Flour": { "calories": 364, "protein": 12, "carbs": 76, "fats": 1 },
+  "Maida (Refined Flour)": { "calories": 364, "protein": 10, "carbs": 76, "fats": 1 },
+  "Vermicelli": { "calories": 352, "protein": 7.2, "carbs": 78, "fats": 1 },
+  "Poha (Flattened Rice)": { "calories": 130, "protein": 2.6, "carbs": 27, "fats": 0.2 },
+
+  "Cashews": { "calories": 553, "protein": 18, "carbs": 30, "fats": 44 },
+  "Walnuts": { "calories": 654, "protein": 15, "carbs": 14, "fats": 65 },
+  "Pistachios": { "calories": 562, "protein": 20, "carbs": 28, "fats": 45 },
+  "Sunflower Seeds": { "calories": 584, "protein": 20.8, "carbs": 20, "fats": 51 },
+  "Sesame Seeds": { "calories": 573, "protein": 17, "carbs": 23, "fats": 50 },
+  "Flax Seeds": { "calories": 534, "protein": 18, "carbs": 29, "fats": 42 },
+  "Pumpkin Seeds": { "calories": 559, "protein": 30, "carbs": 10.7, "fats": 49 },
+  "Dates": { "calories": 277, "protein": 1.8, "carbs": 75, "fats": 0.2 },
+  "Raisins": { "calories": 299, "protein": 3.1, "carbs": 79, "fats": 0.5 },
+  "Honey": { "calories": 304, "protein": 0.3, "carbs": 82.4, "fats": 0 }
+}
+
+
+
+
+
+
+
+
+

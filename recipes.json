@@ -1,0 +1,1455 @@
+{
+  "pasta": {
+    "ingredients": [
+      "200g pasta",
+      "2 tbsp olive oil",
+      "2 garlic cloves",
+      "1 cup tomato sauce",
+      "Salt and pepper to taste"
+    ],
+    "steps": [
+      "Boil pasta until al dente.",
+      "Heat oil and saute garlic.",
+      "Add tomato sauce and cook for 5 minutes.",
+      "Mix pasta with the sauce.",
+      "Serve hot."
+    ]
+  },
+  "omelette": {
+    "ingredients": [
+      "2 eggs",
+      "Salt and pepper",
+      "1 tbsp butter",
+      "Chopped onions and tomatoes (optional)"
+    ],
+    "steps": [
+      "Beat eggs with salt and pepper.",
+      "Heat butter in a pan.",
+      "Pour egg mixture and spread evenly.",
+      "Add vegetables if desired.",
+      "Fold and cook until done."
+    ]
+  },
+  "tea": {
+    "ingredients": [
+      "1 cup water",
+      "1/2 cup milk",
+      "1 tsp tea leaves",
+      "Sugar to taste"
+    ],
+    "steps": [
+      "Boil water and add tea leaves.",
+      "Add milk and sugar.",
+      "Simmer for 2-3 minutes.",
+      "Strain and serve hot."
+    ]
+  },
+  "grilled cheese sandwich": {
+    "ingredients": [
+      "2 slices of bread",
+      "2 slices of cheese",
+      "1 tbsp butter"
+    ],
+    "steps": [
+      "Butter one side of each bread slice.",
+      "Place cheese between unbuttered sides.",
+      "Grill on a pan until golden brown on both sides.",
+      "Serve hot."
+    ]
+  },
+  "masala chai": {
+    "ingredients": [
+      "1 cup water",
+      "1/2 cup milk",
+      "1 tsp tea leaves",
+      "2 cardamom pods",
+      "1 small cinnamon stick",
+      "Sugar to taste"
+    ],
+    "steps": [
+      "Boil water with spices.",
+      "Add tea leaves and simmer.",
+      "Add milk and sugar.",
+      "Boil for 2 minutes.",
+      "Strain and serve."
+    ]
+  },
+  "banana smoothie": {
+    "ingredients": [
+      "1 banana",
+      "1 cup milk",
+      "1 tbsp honey",
+      "4-5 ice cubes"
+    ],
+    "steps": [
+      "Peel and slice the banana.",
+      "Add all ingredients to a blender.",
+      "Blend until smooth.",
+      "Serve chilled."
+    ]
+  },
+  "veg fried rice": {
+    "ingredients": [
+      "2 cups cooked rice",
+      "1 cup chopped vegetables",
+      "2 tbsp soy sauce",
+      "1 tbsp oil",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Heat oil and saute vegetables.",
+      "Add cooked rice and mix well.",
+      "Add soy sauce, salt, and pepper.",
+      "Stir-fry for 3-4 minutes.",
+      "Serve hot."
+    ]
+  },
+  "maggie noodles": {
+    "ingredients": [
+      "1 packet instant noodles",
+      "1.5 cups water",
+      "Optional vegetables"
+    ],
+    "steps": [
+      "Boil water in a pan.",
+      "Add noodles and tastemaker.",
+      "Add vegetables if using.",
+      "Cook for 2-3 minutes.",
+      "Serve hot."
+    ]
+  },
+  "lemon rice": {
+    "ingredients": [
+      "2 cups cooked rice",
+      "1 tbsp oil",
+      "1 tsp mustard seeds",
+      "Curry leaves",
+      "1 green chili",
+      "Juice of 1 lemon"
+    ],
+    "steps": [
+      "Heat oil and add mustard seeds.",
+      "Add curry leaves and chili.",
+      "Add cooked rice and mix.",
+      "Squeeze lemon juice on top.",
+      "Mix well and serve."
+    ]
+  },
+ 
+  
+  "bread butter": {
+    "ingredients": [
+      "2 slices of bread",
+      "1 tbsp butter"
+    ],
+    "steps": [
+      "Toast the bread slices.",
+      "Spread butter while hot.",
+      "Serve warm."
+    ]
+  },
+  "boiled egg": {
+    "ingredients": [
+      "2 eggs",
+      "Water",
+      "Salt to taste"
+    ],
+    "steps": [
+      "Place eggs in boiling water.",
+      "Boil for 8-10 minutes.",
+      "Cool, peel and serve with salt."
+    ]
+  },
+
+  "chocolate milkshake": {
+    "ingredients": [
+      "1 cup milk",
+      "2 tbsp chocolate syrup",
+      "1 scoop vanilla ice cream"
+    ],
+    "steps": [
+      "Add all ingredients in blender.",
+      "Blend till smooth.",
+      "Serve chilled."
+    ]
+  },
+  "fruit salad": {
+    "ingredients": [
+      "1 apple",
+      "1 banana",
+      "1 orange",
+      "Honey (optional)"
+    ],
+    "steps": [
+      "Chop all fruits.",
+      "Mix in a bowl.",
+      "Drizzle honey and serve."
+    ]
+  },
+  "chapati": {
+    "ingredients": [
+      "1 cup wheat flour",
+      "Water",
+      "Salt"
+    ],
+    "steps": [
+      "Knead flour with water and salt.",
+      "Roll into flat discs.",
+      "Cook on hot tawa both sides.",
+      "Serve hot."
+    ]
+  },
+  "pancakes": {
+    "ingredients": [
+      "1 cup flour",
+      "1 egg",
+      "1 cup milk",
+      "2 tbsp sugar",
+      "Butter for cooking"
+    ],
+    "steps": [
+      "Mix flour, egg, milk, and sugar.",
+      "Heat butter on pan.",
+      "Pour batter and cook both sides.",
+      "Serve with syrup."
+    ]
+  },
+  "sandwich": {
+    "ingredients": [
+      "2 slices bread",
+      "Butter",
+      "Tomato, cucumber, onion slices"
+    ],
+    "steps": [
+      "Butter the bread.",
+      "Place sliced veggies in between.",
+      "Cut and serve."
+    ]
+  },
+  "egg curry": {
+    "ingredients": [
+      "2 boiled eggs",
+      "1 onion",
+      "1 tomato",
+      "Spices",
+      "Oil"
+    ],
+    "steps": [
+      "Saute onion and tomato with spices.",
+      "Add boiled eggs.",
+      "Simmer with water for gravy.",
+      "Serve with rice or roti."
+    ]
+  },
+  "paneer bhurji": {
+    "ingredients": [
+      "200g paneer",
+      "1 onion",
+      "1 tomato",
+      "Spices",
+      "Oil"
+    ],
+    "steps": [
+      "Crumble paneer.",
+      "Sauté onion and tomato with spices.",
+      "Add paneer and cook for 5 mins.",
+      "Serve with roti."
+    ]
+  },
+  "aloo paratha": {
+    "ingredients": [
+      "Wheat dough",
+      "Boiled potatoes",
+      "Spices",
+      "Butter"
+    ],
+    "steps": [
+      "Mash potatoes with spices.",
+      "Stuff inside dough ball.",
+      "Roll and cook on tawa.",
+      "Serve with butter or curd."
+    ]
+  },
+  "sabudana khichdi": {
+    "ingredients": [
+      "1 cup soaked sabudana",
+      "Boiled potato",
+      "Peanuts",
+      "Cumin, green chili"
+    ],
+    "steps": [
+      "Sauté cumin and chili.",
+      "Add potato and sabudana.",
+      "Cook until sabudana turns translucent.",
+      "Serve hot."
+    ]
+  },
+  "khichdi": {
+    "ingredients": [
+      "1/2 cup rice",
+      "1/2 cup moong dal",
+      "Turmeric, salt",
+      "Water"
+    ],
+    "steps": [
+      "Wash and pressure cook rice and dal.",
+      "Add salt and turmeric.",
+      "Cook till soft.",
+      "Serve with ghee or curd."
+    ]
+  },
+  "vegetable curry": {
+    "ingredients": [
+      "Mixed vegetables",
+      "Onion, tomato",
+      "Spices",
+      "Oil"
+    ],
+    "steps": [
+      "Sauté onion and tomato.",
+      "Add vegetables and spices.",
+      "Cook until soft.",
+      "Serve with rice or roti."
+    ]
+  },
+  "moong dal": {
+    "ingredients": [
+      "1 cup moong dal",
+      "Turmeric, salt",
+      "Oil for tempering"
+    ],
+    "steps": [
+      "Cook dal with water, salt, turmeric.",
+      "Temper with mustard, cumin, garlic.",
+      "Serve hot."
+    ]
+  },
+  "sambar": {
+    "ingredients": [
+      "1 cup toor dal",
+      "Tamarind pulp",
+      "Sambar powder",
+      "Vegetables"
+    ],
+    "steps": [
+      "Cook dal and vegetables.",
+      "Add tamarind and spices.",
+      "Boil and simmer.",
+      "Serve with rice."
+    ]
+  },
+  "rasam": {
+    "ingredients": [
+      "Tamarind water",
+      "Tomato",
+      "Rasam powder",
+      "Mustard seeds"
+    ],
+    "steps": [
+      "Boil tamarind and tomato.",
+      "Add rasam powder and simmer.",
+      "Temper and add.",
+      "Serve hot."
+    ]
+  },
+  "sprouts salad": {
+    "ingredients": [
+      "1 cup boiled sprouts",
+      "Onion, tomato",
+      "Lemon juice",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Mix all ingredients in a bowl.",
+      "Toss well and serve."
+    ]
+  },
+  "corn chaat": {
+    "ingredients": [
+      "1 cup boiled corn",
+      "Onion, tomato",
+      "Chaat masala",
+      "Lemon juice"
+    ],
+    "steps": [
+      "Mix all ingredients.",
+      "Serve fresh and tangy."
+    ]
+  },
+  "idli": {
+    "ingredients": [
+      "1 cup urad dal",
+      "2 cups idli rice",
+      "Salt",
+      "Water for soaking and grinding"
+    ],
+    "steps": [
+      "Soak rice and dal separately for 4-6 hours.",
+      "Grind them to a smooth batter, mix, and ferment overnight.",
+      "Add salt, pour into idli moulds, and steam for 10-12 minutes."
+    ]
+  },
+  "dosa": {
+    "ingredients": [
+      "1 cup urad dal",
+      "2 cups rice",
+      "1/4 tsp fenugreek seeds",
+      "Salt",
+      "Oil for roasting"
+    ],
+    "steps": [
+      "Soak rice, dal, and methi for 4-6 hours.",
+      "Grind to a smooth batter and ferment overnight.",
+      "Spread batter on a hot tawa, drizzle oil, and roast till crisp."
+    ]
+  },
+  "poha": {
+    "ingredients": [
+      "1.5 cups thick poha (flattened rice)",
+      "1 onion (chopped)",
+      "1 green chili (chopped)",
+      "1/2 tsp mustard seeds",
+      "Curry leaves",
+      "Turmeric, salt",
+      "Lemon juice, coriander"
+    ],
+    "steps": [
+      "Rinse poha and drain.",
+      "Heat oil, crackle mustard seeds, saute onion, chili, and curry leaves.",
+      "Add turmeric, salt, and poha. Mix well and cook for 2 mins.",
+      "Finish with lemon juice and coriander."
+    ]
+  },
+  "paratha": {
+    "ingredients": [
+      "2 cups whole wheat flour",
+      "1 cup stuffing (aloo, paneer, etc.)",
+      "Salt, water",
+      "Ghee or oil for roasting"
+    ],
+    "steps": [
+      "Prepare dough with flour, salt, and water.",
+      "Roll dough, place stuffing, seal and roll again.",
+      "Cook on a tawa with ghee/oil till golden on both sides."
+    ]
+  },
+  "aloo puri": {
+    "ingredients": [
+      "2 cups wheat flour (for puri)",
+      "2-3 boiled potatoes",
+      "Onion, tomato, ginger-garlic paste",
+      "Turmeric, chili powder, garam masala, salt",
+      "Oil for frying"
+    ],
+    "steps": [
+      "Knead flour into a firm dough for puris.",
+      "Make curry with sauteed onion, tomato, spices, and mashed potatoes.",
+      "Roll puris and deep fry till puffed.",
+      "Serve with hot aloo curry."
+    ]
+  },
+  "upma": {
+    "ingredients": [
+      "1 cup semolina (rava)",
+      "1 onion (chopped)",
+      "1 green chili",
+      "Mustard seeds, urad dal, curry leaves",
+      "Salt, water",
+      "Ghee/oil"
+    ],
+    "steps": [
+      "Roast rava and keep aside.",
+      "Heat oil, temper mustard, dal, curry leaves, and onions.",
+      "Add water and salt, bring to boil.",
+      "Slowly add rava, stirring continuously. Cook till thick."
+    ]
+  },
+  "chole bhature": {
+    "ingredients": [
+      "1 cup chickpeas (soaked overnight)",
+      "Onion, tomato, ginger-garlic paste",
+      "Chole masala, chili powder, turmeric, salt",
+      "2 cups maida, curd, baking soda (for bhature)",
+      "Oil for frying"
+    ],
+    "steps": [
+      "Pressure cook chickpeas and prepare spicy chole masala curry.",
+      "Make dough for bhature with maida, curd, soda, rest for 2 hrs.",
+      "Roll and deep fry bhature till golden.",
+      "Serve with hot chole."
+    ]
+  },
+  "pesarattu": {
+    "ingredients": [
+      "1 cup green gram (moong dal)",
+      "1 green chili",
+      "Ginger, cumin seeds",
+      "Salt, oil",
+      "Chopped onions (optional)"
+    ],
+    "steps": [
+      "Soak green gram for 4-5 hours, grind with chili, ginger, cumin, and salt.",
+      "Pour batter on hot tawa, spread like dosa.",
+      "Top with chopped onions, cook both sides till golden."
+    ]
+  },
+  "appam with stew": {
+    "ingredients": [
+      "1 cup raw rice",
+      "1/4 cup cooked rice",
+      "1/2 cup coconut milk",
+      "Yeast, sugar, salt",
+      "Stew: Mixed vegetables, coconut milk, green chili, spices"
+    ],
+    "steps": [
+      "Soak rice, grind with cooked rice and coconut milk. Add yeast and ferment overnight.",
+      "Pour batter in appam pan, cook covered till edges crisp.",
+      "For stew, cook veggies with spices and finish with coconut milk.",
+      "Serve appam with hot stew."
+    ]
+  },
+  "misal pav": {
+    "ingredients": [
+      "1 cup sprouted moth beans",
+      "Onion, tomato, ginger-garlic paste",
+      "Goda masala, chili powder, salt",
+      "Farsan, lemon, coriander, pav"
+    ],
+    "steps": [
+      "Cook sprouts with masala and gravy.",
+      "Top with farsan, onions, coriander, and lemon.",
+      "Serve with butter-toasted pav."
+    ]
+  },
+    "biryani": {
+    "ingredients": [
+      "2 cups basmati rice",
+      "500g chicken/mutton/vegetables",
+      "2 onions (fried)",
+      "Yogurt, ginger-garlic paste",
+      "Biryani masala, saffron, mint, coriander",
+      "Oil, ghee, salt"
+    ],
+    "steps": [
+      "Marinate meat/veggies with yogurt, spices, and ginger-garlic paste for 1-2 hours.",
+      "Parboil rice with salt and whole spices.",
+      "Layer meat and rice, add fried onions, mint, coriander, and saffron milk.",
+      "Cook on dum (slow steam) for 30-40 minutes.",
+      "Serve hot with raita."
+    ]
+  },
+  "butter chicken": {
+    "ingredients": [
+      "500g chicken (boneless)",
+      "Tomato puree, cream, butter",
+      "Ginger-garlic paste, garam masala",
+      "Kasuri methi, chili powder, salt",
+      "Oil"
+    ],
+    "steps": [
+      "Marinate chicken with yogurt and spices, then cook till tender.",
+      "Prepare tomato-based gravy with butter and cream.",
+      "Add cooked chicken, simmer for 10 minutes.",
+      "Garnish with kasuri methi and serve."
+    ]
+  },
+  "paneer butter masala": {
+    "ingredients": [
+      "250g paneer (cubed)",
+      "Tomato puree, cream, butter",
+      "Ginger-garlic paste, garam masala",
+      "Kasuri methi, chili powder, salt",
+      "Oil"
+    ],
+    "steps": [
+      "Prepare tomato gravy with butter, cream, and spices.",
+      "Add paneer cubes, cook for 5-7 minutes.",
+      "Garnish with kasuri methi and serve."
+    ]
+  },
+  "rogan josh": {
+    "ingredients": [
+      "500g mutton",
+      "Yogurt, ginger-garlic paste",
+      "Rogan josh masala, red chili powder",
+      "Onion, oil, salt",
+      "Whole spices"
+    ],
+    "steps": [
+      "Saute onions and whole spices in oil.",
+      "Add ginger-garlic paste and mutton, cook till browned.",
+      "Add yogurt and spices, simmer till mutton is tender.",
+      "Serve hot with rice or roti."
+    ]
+  },
+  "dal makhani": {
+    "ingredients": [
+      "1 cup whole black urad dal",
+      "1/4 cup kidney beans (rajma)",
+      "Butter, cream",
+      "Tomato puree, ginger-garlic paste",
+      "Spices, salt"
+    ],
+    "steps": [
+      "Soak dal and rajma overnight and pressure cook.",
+      "Prepare tomato gravy with butter and spices.",
+      "Add cooked dal, simmer for 1-2 hours.",
+      "Finish with cream and butter, serve hot."
+    ]
+  },
+  "rajma chawal": {
+    "ingredients": [
+      "1 cup kidney beans (rajma)",
+      "Onion, tomato, ginger-garlic paste",
+      "Chili powder, garam masala, salt",
+      "Rice",
+      "Oil"
+    ],
+    "steps": [
+      "Soak rajma overnight, pressure cook till soft.",
+      "Prepare onion-tomato masala gravy with spices.",
+      "Add cooked rajma, simmer 20 mins.",
+      "Serve with steamed rice."
+    ]
+  },
+  "chole": {
+    "ingredients": [
+      "1 cup chickpeas (kabuli chana)",
+      "Onion, tomato, ginger-garlic paste",
+      "Chole masala, chili powder, salt",
+      "Oil"
+    ],
+    "steps": [
+      "Soak chickpeas overnight and pressure cook.",
+      "Make onion-tomato gravy with spices.",
+      "Add cooked chickpeas, simmer 20 mins.",
+      "Serve with bhature or rice."
+    ]
+  },
+  "palak paneer": {
+    "ingredients": [
+      "250g paneer cubes",
+      "500g spinach (palak)",
+      "Onion, tomato, ginger-garlic paste",
+      "Spices, cream",
+      "Oil"
+    ],
+    "steps": [
+      "Blanch spinach and blend to puree.",
+      "Prepare onion-tomato gravy, add spinach puree.",
+      "Add paneer cubes, cook 5 mins.",
+      "Finish with cream and serve."
+    ]
+  },
+  "masala dosa": {
+    "ingredients": [
+      "Dosa batter (rice and urad dal)",
+      "Potatoes, mustard seeds, curry leaves",
+      "Green chili, turmeric, salt",
+      "Oil"
+    ],
+    "steps": [
+      "Prepare potato filling with spices.",
+      "Pour dosa batter on hot tawa, spread thin.",
+      "Add potato filling, fold dosa and cook crisp.",
+      "Serve with chutney and sambar."
+    ]
+  },
+  "chicken chettinad": {
+    "ingredients": [
+      "500g chicken",
+      "Onion, tomato, ginger-garlic paste",
+      "Chettinad masala, curry leaves",
+      "Coconut, red chilies",
+      "Oil, salt"
+    ],
+    "steps": [
+      "Grind coconut and red chilies to a paste.",
+      "Saute onions and add ginger-garlic paste.",
+      "Add chicken and masala paste, cook till done.",
+      "Garnish with curry leaves and serve."
+    ]
+  },
+  "hyderabadi dum biryani": {
+    "ingredients": [
+      "2 cups basmati rice",
+      "500g marinated chicken/mutton",
+      "Yogurt, fried onions",
+      "Mint, coriander, saffron",
+      "Biryani spices, ghee"
+    ],
+    "steps": [
+      "Marinate meat with spices and yogurt for hours.",
+      "Parboil rice and layer with meat and fried onions.",
+      "Seal and cook on dum for 45 minutes.",
+      "Serve hot with raita."
+    ]
+  },
+  "fish curry": {
+    "ingredients": [
+      "500g fish pieces",
+      "Onion, tomato, ginger-garlic paste",
+      "Tamarind paste or kokum",
+      "Coconut milk (for Goan style)",
+      "Spices, mustard seeds, curry leaves",
+      "Oil, salt"
+    ],
+    "steps": [
+      "Prepare tamarind or kokum water.",
+      "Saute onion and spices, add tomato and tamarind water.",
+      "Add fish and cook gently till done.",
+      "For Goan style, add coconut milk at the end.",
+      "Serve hot with rice."
+    ]
+  },
+  "sambar": {
+    "ingredients": [
+      "1 cup toor dal (pigeon peas)",
+      "Mixed vegetables (drumstick, carrots, pumpkin)",
+      "Tamarind paste",
+      "Sambar powder, mustard seeds, curry leaves",
+      "Oil, salt"
+    ],
+    "steps": [
+      "Cook toor dal and vegetables till soft.",
+      "Add tamarind water and sambar powder, boil.",
+      "Tempered mustard seeds and curry leaves added last.",
+      "Serve hot with rice or dosa."
+    ]
+  },
+  "rasam": {
+    "ingredients": [
+      "Tamarind paste",
+      "Tomatoes, garlic, mustard seeds",
+      "Cumin, black pepper, curry leaves",
+      "Coriander, salt"
+    ],
+    "steps": [
+      "Boil tamarind water with tomatoes and spices.",
+      "Tempered mustard seeds, garlic, and curry leaves added.",
+      "Simmer for 5-10 minutes.",
+      "Serve hot with rice."
+    ]
+  },
+  "vegetable kurma": {
+    "ingredients": [
+      "Mixed vegetables (carrots, beans, peas, potatoes)",
+      "Grated coconut, green chili, ginger, fennel seeds",
+      "Onion, yogurt or coconut milk",
+      "Spices, oil, salt"
+    ],
+    "steps": [
+      "Grind coconut with spices to make paste.",
+      "Sauté onions and add veggies.",
+      "Add coconut paste and yogurt or coconut milk.",
+      "Cook till vegetables are tender.",
+      "Serve with chapati or rice."
+    ]
+  },
+  "samosa": {
+    "ingredients": [
+      "2 cups all-purpose flour",
+      "4 boiled potatoes",
+      "Green peas",
+      "Green chili, ginger, cumin seeds",
+      "Garam masala, salt",
+      "Oil for frying"
+    ],
+    "steps": [
+      "Prepare dough with flour, water, and salt; rest for 30 mins.",
+      "Make potato filling with peas, spices, and mash well.",
+      "Roll dough, cut into halves, form cones, fill with potato mixture.",
+      "Seal edges and deep fry until golden brown.",
+      "Serve hot with chutney."
+    ]
+  },
+  "pav bhaji": {
+    "ingredients": [
+      "Mixed vegetables (potato, peas, carrots, capsicum)",
+      "Tomato, onion, ginger-garlic paste",
+      "Pav bhaji masala, butter, salt",
+      "Pav (bread rolls)",
+      "Lemon and coriander for garnish"
+    ],
+    "steps": [
+      "Boil and mash vegetables.",
+      "Sauté onion, tomato, and spices, add mashed veggies.",
+      "Cook till thick, add butter.",
+      "Toast pav with butter.",
+      "Serve bhaji with pav, lemon, and coriander."
+    ]
+  },
+  "vada pav": {
+    "ingredients": [
+      "4 large potatoes (boiled and mashed)",
+      "Green chili, ginger, mustard seeds",
+      "Turmeric, salt",
+      "Besan (gram flour) batter",
+      "Pav (bread rolls)",
+      "Oil for frying"
+    ],
+    "steps": [
+      "Prepare potato filling with spices.",
+      "Make batter with besan and water.",
+      "Shape potato mixture into balls, dip in batter, deep fry.",
+      "Serve vada inside pav with chutneys."
+    ]
+  },
+  "pakoras": {
+    "ingredients": [
+      "Vegetables (onion, potato, spinach, cauliflower)",
+      "Besan (gram flour)",
+      "Red chili powder, turmeric, salt",
+      "Water",
+      "Oil for frying"
+    ],
+    "steps": [
+      "Slice vegetables thinly.",
+      "Mix besan with spices and water to make batter.",
+      "Dip vegetables in batter and deep fry till golden.",
+      "Serve hot with chutney."
+    ]
+  },
+  "pani puri": {
+    "ingredients": [
+      "Puri shells (ready-made or homemade)",
+      "Boiled potatoes and chickpeas",
+      "Tamarind chutney, mint-coriander chutney",
+      "Spiced water (pani) with tamarind, mint, and spices"
+    ],
+    "steps": [
+      "Make spiced water by blending mint, tamarind, and spices.",
+      "Fill puris with potato and chickpea mixture.",
+      "Dip in pani and eat immediately."
+    ]
+  },
+  "bhel puri": {
+    "ingredients": [
+      "Puffed rice",
+      "Sev (crispy noodles)",
+      "Chopped onion, tomato, boiled potato",
+      "Tamarind chutney, green chutney",
+      "Chopped coriander, lemon juice"
+    ],
+    "steps": [
+      "Mix puffed rice, sev, veggies, and chutneys well.",
+      "Add lemon juice and garnish with coriander.",
+      "Serve immediately."
+    ]
+  },
+  "dhokla": {
+    "ingredients": [
+      "1 cup gram flour (besan)",
+      "1 tsp Eno fruit salt",
+      "1 tbsp yogurt",
+      "Green chili, ginger paste",
+      "Mustard seeds, curry leaves for tempering",
+      "Salt, sugar"
+    ],
+    "steps": [
+      "Mix besan, yogurt, spices, and water to a batter.",
+      "Add Eno and pour batter into greased tray.",
+      "Steam for 15-20 minutes.",
+      "Tempered mustard seeds and curry leaves poured on top.",
+      "Cut and serve with chutney."
+    ]
+  },
+  "aloo tikki": {
+    "ingredients": [
+      "4 boiled potatoes",
+      "Green chili, ginger, coriander",
+      "Chaat masala, salt",
+      "Bread crumbs",
+      "Oil for frying"
+    ],
+    "steps": [
+      "Mash potatoes, mix with spices and herbs.",
+      "Shape into flat patties, coat with bread crumbs.",
+      "Deep fry or shallow fry till golden.",
+      "Serve with chutney or yogurt."
+    ]
+  },
+  "kathi roll": {
+    "ingredients": [
+      "Paratha or roti",
+      "Chicken or paneer or veggies",
+      "Onion, capsicum, spices",
+      "Chutney or mayonnaise",
+      "Oil"
+    ],
+    "steps": [
+      "Cook filling with spices and vegetables or meat.",
+      "Warm paratha or roti, spread chutney.",
+      "Place filling, roll tightly.",
+      "Serve hot."
+    ]
+  },
+  "cutlet": {
+    "ingredients": [
+      "Boiled potatoes and vegetables or minced meat",
+      "Onion, ginger-garlic paste",
+      "Green chili, coriander, spices",
+      "Bread crumbs",
+      "Oil for frying"
+    ],
+    "steps": [
+      "Mix boiled potatoes/vegetables with spices and herbs.",
+      "Shape into small patties, coat with bread crumbs.",
+      "Deep fry or shallow fry till crispy.",
+      "Serve hot with sauce."
+    ]
+  },
+    "gulab jamun": {
+    "ingredients": [
+      "1 cup milk powder",
+      "1/4 cup all-purpose flour",
+      "1/4 cup milk",
+      "1 tbsp ghee",
+      "Sugar syrup (2 cups sugar + 2 cups water + cardamom)"
+    ],
+    "steps": [
+      "Mix milk powder, flour, ghee, and milk to form a dough.",
+      "Make small balls and deep fry until golden brown.",
+      "Soak fried balls in warm sugar syrup for at least 1 hour.",
+      "Serve warm or chilled."
+    ]
+  },
+  "rasgulla": {
+    "ingredients": [
+      "1 liter full-fat milk",
+      "2 tbsp lemon juice or vinegar",
+      "Sugar syrup (2 cups sugar + 4 cups water + cardamom)"
+    ],
+    "steps": [
+      "Curdle milk using lemon juice and drain whey to get chenna (paneer).",
+      "Knead chenna into smooth dough, make small balls.",
+      "Boil balls in sugar syrup for 15-20 minutes until spongy.",
+      "Cool and serve chilled."
+    ]
+  },
+  "rasmalai": {
+    "ingredients": [
+      "Rasgulla balls",
+      "1 liter milk",
+      "Sugar",
+      "Saffron, cardamom",
+      "Chopped pistachios and almonds"
+    ],
+    "steps": [
+      "Boil milk, reduce and add sugar, saffron, and cardamom.",
+      "Soak rasgulla balls in this thickened milk.",
+      "Chill and garnish with nuts before serving."
+    ]
+  },
+  "jalebi": {
+    "ingredients": [
+      "1 cup all-purpose flour",
+      "2 tbsp gram flour (besan)",
+      "Yogurt",
+      "Sugar syrup (2 cups sugar + 1 cup water + saffron)"
+    ],
+    "steps": [
+      "Make a batter with flour, besan, yogurt and ferment overnight.",
+      "Pipe batter into hot oil in circular shapes, fry till crisp.",
+      "Dip fried jalebis in warm sugar syrup for 1-2 minutes.",
+      "Serve hot or at room temperature."
+    ]
+  },
+  "ladoo": {
+    "ingredients": [
+      "For Motichoor: Fine gram flour, sugar syrup",
+      "For Besan: Gram flour, ghee, sugar",
+      "For Sooji: Semolina, sugar, ghee"
+    ],
+    "steps": [
+      "Make tiny fried balls (boondis) for motichoor, mix with sugar syrup, shape into balls.",
+      "Roast gram flour for besan ladoo, mix with sugar and shape.",
+      "Roast semolina for sooji ladoo, add sugar syrup, ghee, and form balls.",
+      "Let cool before serving."
+    ]
+  },
+  "barfi": {
+    "ingredients": [
+      "2 cups milk powder",
+      "1 cup condensed milk",
+      "1/2 cup ghee",
+      "Cardamom powder",
+      "Chopped nuts"
+    ],
+    "steps": [
+      "Heat ghee, add condensed milk and milk powder.",
+      "Cook till thick, add cardamom and nuts.",
+      "Pour into greased tray, cool and cut into squares.",
+      "Serve."
+    ]
+  },
+  "kaju katli": {
+    "ingredients": [
+      "1 cup cashew nuts",
+      "1/2 cup sugar",
+      "1/4 cup water",
+      "1 tbsp ghee"
+    ],
+    "steps": [
+      "Grind cashews into fine powder.",
+      "Boil sugar and water to make syrup.",
+      "Add cashew powder to syrup, cook till dough forms.",
+      "Roll dough between sheets and cut diamond shapes.",
+      "Cool and serve."
+    ]
+  },
+  "mysore pak": {
+    "ingredients": [
+      "1 cup gram flour (besan)",
+      "1 cup ghee",
+      "1 cup sugar",
+      "Water"
+    ],
+    "steps": [
+      "Mix besan with water to form a smooth batter.",
+      "Heat sugar and water to make syrup.",
+      "Add besan batter to syrup, then gradually add ghee while stirring.",
+      "Cook till it thickens, pour into tray, cool and cut into pieces.",
+      "Serve."
+    ]
+  },
+  "peda": {
+    "ingredients": [
+      "2 cups khoya (reduced milk)",
+      "1 cup sugar",
+      "Cardamom powder",
+      "Saffron strands"
+    ],
+    "steps": [
+      "Cook khoya on low flame, add sugar and cardamom.",
+      "Cook till mixture thickens and leaves sides.",
+      "Shape into small round pedas, garnish with saffron.",
+      "Cool and serve."
+    ]
+  },
+  "halwa": {
+    "ingredients": [
+      "For Carrot Halwa: Grated carrots, milk, sugar, ghee, cardamom",
+      "For Wheat Halwa: Wheat flour, ghee, sugar, water",
+      "For Rava Halwa: Semolina, ghee, sugar, water, cardamom"
+    ],
+    "steps": [
+      "Cook main ingredient (carrot/wheat/rava) in ghee.",
+      "Add sugar and liquid (milk or water), cook till thick.",
+      "Add cardamom for flavor.",
+      "Garnish with nuts and serve warm."
+    ]
+  },
+  "sandesh": {
+    "ingredients": [
+      "1 liter milk",
+      "2 tbsp lemon juice or vinegar",
+      "Sugar",
+      "Cardamom powder"
+    ],
+    "steps": [
+      "Curdle milk and collect chenna (paneer).",
+      "Knead chenna with sugar and cardamom.",
+      "Shape into small discs or designs.",
+      "Chill and serve."
+    ]
+  },
+  "modak": {
+    "ingredients": [
+      "Rice flour",
+      "Grated coconut",
+      "Jaggery",
+      "Cardamom powder",
+      "Ghee"
+    ],
+    "steps": [
+      "Make dough from rice flour and water.",
+      "Prepare filling with coconut, jaggery, and cardamom.",
+      "Shape dough into cups, fill with filling and seal.",
+      "Steam modaks till cooked.",
+      "Serve warm."
+    ]
+  },
+  "kheer": {
+    "ingredients": [
+      "1/2 cup rice",
+      "1 liter milk",
+      "1/2 cup sugar",
+      "Cardamom, saffron",
+      "Nuts for garnish"
+    ],
+    "steps": [
+      "Boil rice in milk on low flame.",
+      "Add sugar and cardamom once rice is soft.",
+      "Cook till thickened.",
+      "Garnish with nuts and serve warm or chilled."
+    ]
+  },
+  "phirni": {
+    "ingredients": [
+      "1/4 cup ground rice",
+      "1 liter milk",
+      "1/2 cup sugar",
+      "Cardamom powder",
+      "Saffron, nuts for garnish"
+    ],
+    "steps": [
+      "Mix ground rice with little milk to make paste.",
+      "Boil remaining milk, add rice paste and cook till thick.",
+      "Add sugar, cardamom, and saffron.",
+      "Pour into bowls, chill and garnish with nuts.",
+      "Serve cold."
+    ]
+  },
+  "jeera rice": {
+    "ingredients": [
+      "1 cup basmati rice",
+      "2 cups water",
+      "1 tbsp ghee or oil",
+      "1 tbsp cumin seeds",
+      "Salt to taste"
+    ],
+    "steps": [
+      "Rinse rice and soak for 15-20 minutes.",
+      "Heat ghee/oil, add cumin seeds and let them splutter.",
+      "Add drained rice, sauté for 2 minutes.",
+      "Add water and salt, cook covered till rice is done.",
+      "Fluff with a fork and serve."
+    ]
+  },
+  "pulao": {
+    "ingredients": [
+      "1 cup basmati rice",
+      "1/2 cup mixed vegetables",
+      "1 tbsp ghee or oil",
+      "1 bay leaf, 2 cloves, 2 cardamom pods",
+      "1 small onion, sliced",
+      "Salt to taste",
+      "2 cups water"
+    ],
+    "steps": [
+      "Rinse and soak rice for 15-20 minutes.",
+      "Heat ghee/oil, add whole spices and saute onions till golden.",
+      "Add vegetables and saute for a few minutes.",
+      "Add drained rice, saute gently.",
+      "Add water and salt, cook covered till done.",
+      "Fluff and serve."
+    ]
+  },
+  "curd rice": {
+    "ingredients": [
+      "1 cup cooked rice",
+      "1 cup yogurt (curd)",
+      "1 tsp mustard seeds",
+      "1-2 dried red chilies",
+      "A pinch of asafoetida (hing)",
+      "Few curry leaves",
+      "Chopped coriander",
+      "Salt to taste"
+    ],
+    "steps": [
+      "Mix cooked rice with yogurt and salt.",
+      "Heat oil, add mustard seeds, dried chilies, hing, and curry leaves for tempering.",
+      "Pour tempering over rice mixture.",
+      "Garnish with coriander and serve chilled or at room temperature."
+    ]
+  },
+  "tamarind rice": {
+    "ingredients": [
+      "1 cup cooked rice",
+      "2 tbsp tamarind paste",
+      "1 tsp mustard seeds",
+      "1 tsp chana dal",
+      "1 tsp urad dal",
+      "2 dried red chilies",
+      "1/4 tsp asafoetida",
+      "Few curry leaves",
+      "2 tbsp peanuts",
+      "Salt and jaggery to taste",
+      "2 tbsp oil"
+    ],
+    "steps": [
+      "Heat oil, add mustard seeds, dals, red chilies, curry leaves, and hing.",
+      "Add tamarind paste, salt, and jaggery, cook till thick and oil separates.",
+      "Mix tamarind mixture with cooked rice.",
+      "Add roasted peanuts, mix gently, and serve."
+    ]
+  },
+  "naan": {
+    "ingredients": [
+      "2 cups all-purpose flour",
+      "1/2 cup yogurt",
+      "1 tsp sugar",
+      "1 tsp active dry yeast",
+      "1/2 cup warm water",
+      "2 tbsp oil or ghee",
+      "Salt to taste"
+    ],
+    "steps": [
+      "Activate yeast in warm water with sugar.",
+      "Mix flour, salt, yogurt, and yeast mixture to form a soft dough.",
+      "Let it rise for 1-2 hours.",
+      "Divide dough, roll out, and cook on a hot tawa or oven till puffed and golden.",
+      "Brush with ghee and serve hot."
+    ]
+  },
+  "roti": {
+    "ingredients": [
+      "2 cups whole wheat flour",
+      "Water as needed",
+      "Salt (optional)"
+    ],
+    "steps": [
+      "Mix flour, salt, and water to make soft dough.",
+      "Rest dough for 30 minutes.",
+      "Roll small balls into thin circles.",
+      "Cook on hot tawa till brown spots appear, flip and cook other side.",
+      "Optional: Puff roti directly on flame.",
+      "Serve hot."
+    ]
+  },
+  "bhatura": {
+    "ingredients": [
+      "2 cups all-purpose flour",
+      "1/2 cup yogurt",
+      "1 tsp sugar",
+      "1/2 tsp baking powder",
+      "Salt to taste",
+      "Water as needed",
+      "Oil for deep frying"
+    ],
+    "steps": [
+      "Mix flour, baking powder, salt, sugar, and yogurt.",
+      "Add water to form soft dough, rest for 2 hours.",
+      "Divide dough into balls, roll into circles.",
+      "Deep fry on medium heat till puffed and golden.",
+      "Serve hot with chole."
+    ]
+  },
+  "rumali roti": {
+    "ingredients": [
+      "2 cups all-purpose flour",
+      "1/2 cup whole wheat flour",
+      "Water as needed",
+      "Salt to taste",
+      "Oil"
+    ],
+    "steps": [
+      "Mix flours and salt, add water to form very soft dough.",
+      "Rest for 1 hour.",
+      "Divide into balls, roll very thin and large.",
+      "Cook on hot inverted tava or griddle quickly.",
+      "Serve hot."
+    ]
+  },
+  "parotta": {
+    "ingredients": [
+      "2 cups all-purpose flour",
+      "1 tsp sugar",
+      "1/2 tsp salt",
+      "Water as needed",
+      "2 tbsp oil or ghee"
+    ],
+    "steps": [
+      "Make soft dough with flour, sugar, salt, and water.",
+      "Rest for 30 minutes.",
+      "Divide dough, roll thin, spread oil, fold into layers.",
+      "Roll again and cook on hot griddle till golden and flaky.",
+      "Serve hot with curry."
+    ]
+  },
+  "thepla": {
+    "ingredients": [
+      "2 cups whole wheat flour",
+      "1 cup fenugreek leaves (methi), chopped",
+      "1 tsp turmeric powder",
+      "1 tsp red chili powder",
+      "1 tsp cumin powder",
+      "Salt to taste",
+      "2 tbsp yogurt",
+      "Water as needed",
+      "Oil for cooking"
+    ],
+    "steps": [
+      "Mix all ingredients into soft dough.",
+      "Roll into thin discs.",
+      "Cook on hot tawa with little oil till golden spots appear.",
+      "Serve with pickle or yogurt."
+    ]
+  },
+  "sarson ka saag with makki roti": {
+    "ingredients": [
+      "500g mustard greens (sarson)",
+      "250g spinach",
+      "100g bathua (optional)",
+      "2 tbsp maize flour (makki ka atta)",
+      "2-3 green chilies",
+      "1-inch ginger",
+      "2 tbsp ghee",
+      "Salt to taste"
+    ],
+    "steps": [
+      "Wash and boil mustard greens, spinach, and bathua until soft.",
+      "Drain and mash the greens finely.",
+      "Heat ghee, add ginger and green chilies paste, sauté.",
+      "Add mashed greens, salt, and maize flour, cook on low flame while stirring.",
+      "Serve hot with makki roti (corn flour flatbread)."
+    ]
+  },
+  "dhokla": {
+    "ingredients": [
+      "1 cup gram flour (besan)",
+      "1 tbsp semolina (rava)",
+      "1 tsp fruit salt or baking soda",
+      "1 tbsp lemon juice",
+      "1 tsp mustard seeds",
+      "2 green chilies, chopped",
+      "A pinch of asafoetida",
+      "Salt to taste",
+      "2 tbsp oil",
+      "Fresh coriander leaves"
+    ],
+    "steps": [
+      "Mix gram flour, semolina, salt, lemon juice and water to make a smooth batter.",
+      "Add fruit salt just before steaming.",
+      "Pour batter in greased tray and steam for 15-20 minutes.",
+      "Tempering: Heat oil, add mustard seeds, asafoetida, and chopped green chilies.",
+      "Pour tempering over steamed dhokla, garnish with coriander and serve."
+    ]
+  },
+  "baingan bharta": {
+    "ingredients": [
+      "1 large eggplant (baingan)",
+      "1 onion, finely chopped",
+      "2 tomatoes, chopped",
+      "2 green chilies",
+      "1 tsp ginger-garlic paste",
+      "2 tbsp oil",
+      "Salt to taste",
+      "Fresh coriander for garnish"
+    ],
+    "steps": [
+      "Roast the eggplant on open flame till charred and soft.",
+      "Peel and mash the eggplant.",
+      "Heat oil, sauté onions, ginger-garlic paste, and green chilies.",
+      "Add tomatoes, cook till soft.",
+      "Add mashed eggplant, salt, and cook for 5-7 minutes.",
+      "Garnish with coriander and serve."
+    ]
+  },
+  "undhiyu": {
+    "ingredients": [
+      "1 cup surti papdi (flat beans)",
+      "1 cup small eggplants",
+      "1 cup yam, cubed",
+      "1 cup raw banana, cubed",
+      "1/2 cup green peas",
+      "1/2 cup methi leaves",
+      "2 tbsp oil",
+      "1 tsp cumin seeds",
+      "2 tbsp ginger-garlic paste",
+      "2 tsp garam masala",
+      "1 tsp turmeric powder",
+      "Salt to taste",
+      "1 cup coconut, grated (for masala)",
+      "2-3 green chilies"
+    ],
+    "steps": [
+      "Make a masala paste with grated coconut, green chilies, ginger-garlic paste, spices, and salt.",
+      "Mix vegetables with the masala paste.",
+      "Heat oil and cumin seeds in a heavy pot.",
+      "Add vegetable mix, cover, and cook on low heat till tender.",
+      "Serve hot with puris or rice."
+    ]
+  },
+  "litti chokha": {
+    "ingredients": [
+      "For litti: 2 cups whole wheat flour, 1/2 cup sattu (roasted gram flour), 2 tbsp mustard oil, spices",
+      "For chokha: 2 medium roasted eggplants, 2 boiled potatoes, 2 tomatoes, 2 green chilies, mustard oil, salt, coriander"
+    ],
+    "steps": [
+      "Make dough with wheat flour, roll small balls.",
+      "Prepare stuffing with sattu, mustard oil, chopped onions, green chilies, and spices.",
+      "Stuff balls with sattu mixture and seal.",
+      "Bake or roast littis till crisp.",
+      "For chokha, mash roasted eggplants, boiled potatoes, and tomatoes; mix with mustard oil, salt, chilies, and coriander.",
+      "Serve litti hot with chokha."
+    ]
+  },
+  "thali meals": {
+    "ingredients": [
+      "Variety of small portions: dal, rice, roti, vegetable sabzi, pickles, chutneys, yogurt, sweet dish"
+    ],
+    "steps": [
+      "Prepare multiple dishes such as dal, vegetable curry, rice, roti, and sweets.",
+      "Serve all items together on a large plate (thali).",
+      "Enjoy a balanced meal with diverse flavors and textures."
+    ]
+  },
+  "khar": {
+    "ingredients": [
+      "1 cup raw papaya, peeled and chopped",
+      "1 tsp alkaline water (khar water) or baking soda",
+      "1 tsp mustard seeds",
+      "2 dried red chilies",
+      "1/2 tsp turmeric powder",
+      "Salt to taste",
+      "2 tbsp mustard oil",
+      "Coriander leaves"
+    ],
+    "steps": [
+      "Heat mustard oil, add mustard seeds and dried chilies.",
+      "Add chopped raw papaya, turmeric, salt and saute.",
+      "Add alkaline water and cook till papaya softens.",
+      "Garnish with coriander and serve with rice."
+    ]
+  },
+  "chingri malai curry": {
+    "ingredients": [
+      "500g prawns, cleaned",
+      "1 cup coconut milk",
+      "1 onion, finely chopped",
+      "1 tsp ginger-garlic paste",
+      "2 green chilies",
+      "1 tsp turmeric powder",
+      "1 tsp red chili powder",
+      "2 tbsp mustard oil or vegetable oil",
+      "Salt to taste",
+      "Coriander leaves"
+    ],
+    "steps": [
+      "Heat oil, saute onions, ginger-garlic paste and green chilies.",
+      "Add turmeric and chili powder.",
+      "Add prawns and cook till they turn pink.",
+      "Pour coconut milk, simmer gently till prawns are cooked and curry thickens.",
+      "Garnish with coriander and serve with rice."
+    ]
+  },
+  "malabar parotta with chicken curry": {
+    "ingredients": [
+      "For parotta: 2 cups all-purpose flour, oil, water, salt",
+      "For chicken curry: 500g chicken, 2 onions, 2 tomatoes, 2 tsp ginger-garlic paste, 1 tsp garam masala, 1 tsp chili powder, 1/2 tsp turmeric, coconut milk (optional), oil, salt"
+    ],
+    "steps": [
+      "Make soft dough for parotta, roll and layer with oil, fold and roll again.",
+      "Cook on hot griddle till golden and flaky.",
+      "For curry, saute onions and ginger-garlic paste.",
+      "Add tomatoes and spices, cook till oil separates.",
+      "Add chicken, salt, and cook till tender.",
+      "Add coconut milk and simmer.",
+      "Serve hot parotta with chicken curry."
+    ]
+  },
+  "veg thali": {
+    "ingredients": [
+      "Rice, roti, dal, vegetable curry, salad, pickle, curd, sweet"
+    ],
+    "steps": [
+      "Prepare each dish separately.",
+      "Arrange on a plate with rice, roti, dal, sabzi, pickle, curd, and sweet.",
+      "Serve fresh and enjoy."
+    ]
+  }
+}
+
+

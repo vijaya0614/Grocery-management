@@ -1,0 +1,142 @@
+[
+    {
+        "name": "milk",
+        "quantity": "2 liters",
+        "category": "Dairy",
+        "amount": "124",
+        "expiry_date": "30-05-2025"
+    },
+    {
+        "name": "curd",
+        "quantity": "2 packets",
+        "category": "Dairy",
+        "amount": "100",
+        "expiry_date": "01-06-2025"
+    },
+    {
+        "name": "paneer",
+        "quantity": "1 kg",
+        "category": "Dairy",
+        "amount": "300",
+        "expiry_date": "05-06-2025"
+    },
+    {
+        "name": "cheese",
+        "quantity": "1 kg",
+        "category": "Dairy",
+        "amount": "500",
+        "expiry_date": "28-06-2025"
+    },
+    {
+        "name": "Bakery",
+        "quantity": "5 pakets",
+        "category": "Bakery",
+        "amount": "250",
+        "expiry_date": "05-06-2025"
+    },
+    {
+        "name": "Wheat flour",
+        "quantity": "10 kg",
+        "category": "Cereals and Grains",
+        "amount": "400",
+        "expiry_date": "27-11-2025"
+    },
+    {
+        "name": "Apple",
+        "quantity": "2 kg",
+        "category": "Fruits",
+        "amount": "100",
+        "expiry_date": "05-06-2025"
+    },
+    {
+        "name": "Turmeric",
+        "quantity": "250 grams",
+        "category": "Spices",
+        "amount": "50",
+        "expiry_date": "01-05-2026"
+    },
+    {
+        "name": "Chips",
+        "quantity": "10 packets",
+        "category": "Snacks",
+        "amount": "100",
+        "expiry_date": "28-11-2025"
+    },
+    {
+        "name": "Kurkure",
+        "quantity": "5 packets",
+        "category": "Snacks",
+        "amount": "50",
+        "expiry_date": "01-10-2025"
+    },
+    {
+        "name": "Tea powder",
+        "quantity": "100 grams",
+        "category": "Beverages",
+        "amount": "250",
+        "expiry_date": "01-05-2026"
+    },
+    {
+        "name": "Soaps",
+        "quantity": "5 bars",
+        "category": "Personal care",
+        "amount": "250",
+        "expiry_date": "02-04-2026"
+    },
+    {
+        "name": "Toothpaste",
+        "quantity": "2 tubes",
+        "category": "Personal care",
+        "amount": "180",
+        "expiry_date": "02-07-2028"
+    },
+    {
+        "name": "Red chillie powder",
+        "quantity": "250 grams",
+        "category": "Spices",
+        "amount": "60",
+        "expiry_date": "01-12-2025"
+    },
+    {
+        "name": "Coconut oil",
+        "quantity": "1 liter",
+        "category": "Oils",
+        "amount": "220",
+        "expiry_date": "01-01-2026"
+    },
+    {
+        "name": "Tomato",
+        "quantity": "5 kg",
+        "category": "Vegetables",
+        "amount": "200",
+        "expiry_date": "05-06-2025"
+    },
+    {
+        "name": "Rice",
+        "quantity": "10 kg",
+        "category": "Cereals and Grains",
+        "amount": "700",
+        "expiry_date": "01-04-2025"
+    },
+    {
+        "name": "Toor dal",
+        "quantity": "2 kg",
+        "category": "Pulses",
+        "amount": "200",
+        "expiry_date": "01-11-2025"
+    },
+    {
+        "name": "potato",
+        "quantity": "5 kg",
+        "category": "Vegetables",
+        "amount": "150",
+        "expiry_date": "10-06-2025"
+    },
+    {
+        "name": "beetroot",
+        "quantity": "1kg",
+        "category": "vegetables",
+        "amount": "50",
+        "expiry_date": "30-05-2025"
+    }
+]

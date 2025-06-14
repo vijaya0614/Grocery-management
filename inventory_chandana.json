@@ -1,0 +1,23 @@
+[
+    {
+        "name": "salt",
+        "quantity": "2 packets",
+        "category": "general",
+        "amount": "42",
+        "expiry_date": "2025-09-17"
+    },
+    {
+        "name": "garlic",
+        "quantity": "2 kg",
+        "category": "cooking",
+        "amount": "120",
+        "expiry_date": "2025-06-12"
+    },
+    {
+        "name": "eggs",
+        "quantity": "12",
+        "category": "dairy",
+        "amount": "72",
+        "expiry_date": "2026-04-1"
+    }
+]

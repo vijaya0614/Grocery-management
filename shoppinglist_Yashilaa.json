@@ -1,0 +1,46 @@
+[
+    {
+        "name": "milk",
+        "quantity": "2 liters",
+        "category": "Dairy",
+        "amount": "124",
+        "expiry_date": "30-5-2025"
+    },
+    {
+        "name": "Sunflower oil",
+        "quantity": "5 liters",
+        "category": "Oils",
+        "amount": "800",
+        "expiry_date": "01-01-2026"
+    },
+    {
+        "name": "Shampoo",
+        "quantity": "2 Bottles",
+        "category": "Personal care",
+        "amount": "400",
+        "expiry_date": "01-01-2027"
+    },
+    {
+        "name": "carrot"
+    },
+    {
+        "name": "Rice",
+        "quantity": "10 kg",
+        "category": "Cereals and Grains",
+        "amount": "700",
+        "expiry_date": "01-04-2025"
+    },
+    {
+        "name": "beetroot",
+        "quantity": "1kg",
+        "category": "vegetables",
+        "amount": "50",
+        "expiry_date": "30-05-2025"
+    },
+    {
+        "name": "soap"
+    },
+    {
+        "name": "curd"
+    }
+]
