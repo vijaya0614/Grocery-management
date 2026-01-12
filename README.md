@@ -86,4 +86,40 @@ HouseholdGroceryManagement/
 │
 └── README.md
 
+Installation & Setup
+Prerequisites
+
+Python 3.x installed
+
+Basic familiarity with Python
+
+Future Scope
+
+🎙️ Voice-enabled shopping list generation
+
+☁️ Cloud-based database integration
+
+🛒 Online grocery store APIs
+
+📊 Advanced nutrition analytics
+
+📱 Mobile version of the application
+
+Learning Outcomes
+
+This project strengthened understanding of:
+
+Python GUI development using PyQt5
+
+Modular application design
+
+JSON-based data persistence
+
+Real-world problem solving through software
+
+Acknowledgements
+
+Developed as part of an academic project and internship learning experience, focusing on building practical, user-centric desktop applications using Python.
+
+
 
